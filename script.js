@@ -1,12 +1,12 @@
 const sentences = [
     "The quick brown fox jumps over the lazy dog",
-    "Once upon a time, there was a tortoise and the hare. Tortoise was friendly and quiet.  ",
+    "Once upon a time, there was a tortoise and the hare. Tortoise was friendly and quiet.",
     "When she saw that I had realized my mistake, she cooled down and then told me in a very kind manner.",
     "Studying is the main source of knowledge. Books are indeed never failing friends of man.",
     "Then I saw the most beautiful and colorful section of the exhibition i.e. the cultural section.",
     "A teacher is called builder of the nation. The profession of teaching needs men and women with qualities of head and heart.",
     "It is these qualities of head and heart that have endeared Miss Y to the students and teachers alike.",
-    "Miss Y is a woman of great principles. She is jewel among all the teachers. ",
+    "Miss Y is a woman of great principles. She is jewel among all the teachers.",
     "We can derive benefit from other’s experiences with the help of books.",
     "This cracker caught fire and a very loud explosion was heard which shook my sister and me.",
 ]
